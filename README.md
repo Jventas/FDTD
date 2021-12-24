@@ -1,13 +1,13 @@
-#DESCRIPTION
+# DESCRIPTION
 
 Electromagnetic FDTD Solver
 
-#FEATURES
+# FEATURES
 
 -1D problems
 -Homogeneus media
 
-#COMPILATION
+# COMPILATION
 
 1-Compile object files
 
